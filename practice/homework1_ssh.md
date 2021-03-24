@@ -1,8 +1,9 @@
 # Basic for Quantitaive
 
-> homework 01
-> name : 손승한
+> homework 01  
+> name : 손승한  
 > student number : 2021711370
+> Deadline : 2021. 03. 26
 
 ## Question 1 : U.S. CEO Annual Salary Analysis
 
@@ -20,7 +21,7 @@ Problem 3: Estimate the simple regression model
 - Multiple R-squared:  0.01316
 - predicted percentage increase: 0.9724%
 
-### Question 2 : Analyze the relationship between participation and generosity in 401(k) pension plans.
+## Question 2 : Analyze the relationship between participation and generosity in 401(k) pension plans.
 
 Problem 1: Find the average participation rate and the average match rate in the sample of plans.
 - average participation rate : 87.362907(%)
@@ -39,17 +40,17 @@ Problem 4: Find the predicted prate when mrate =3.5. Is this a reasonable predic
 - predicted prate when mrate=3.5? : 103.589233
 
 Problem 5: How much of the variation inprate is explained by mrate ? Is this a lot in your
-- 
+- Writing 
 
-### Question 3 : Consider
-$$
-y_i = \beta_0 + \beta_1x_i + u_i
-$$
+## Question 3 : Consider
+
 Problem 1: Prove whether the OLS estimator of 𝛽1이 unbiased or not.
+- Writing
 
 Problem 2: Obtain its variance.
+- Writing
 
 Problem 3: Prove whether the OLS estimator of 𝛽1이 consistent or not.
+- Writing
 
 Specify the assumptions you need.
-
