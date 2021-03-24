@@ -2,8 +2,8 @@
 
 > homework 01  
 > name : 손승한  
-> student number : 2021711370
-> Deadline : 2021. 03. 26
+> student number : 2021711370  
+> Deadline : 2021. 03. 26  
 
 ## Question 1 : U.S. CEO Annual Salary Analysis
 
