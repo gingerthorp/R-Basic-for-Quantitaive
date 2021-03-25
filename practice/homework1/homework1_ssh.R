@@ -7,7 +7,7 @@
 
 # change directory
 getwd()
-setwd("/Users/thorp/R_script/DataForHW1")
+setwd("/Users/thorp/R_script/R-Basic-for-Quantitaive/practice/homework1")
 
 # Input file : CEOSAL2_description.txt
 ceosal2_desc = readLines("CEOSAL2_description.txt")
@@ -203,12 +203,10 @@ sprintf("Coefficient of the equation : %f", coefficient)
 # Problem 4:
 mrate35 <- coefficient * (3.5) + intercept
 sprintf("predicted prate when mrate=3.5 : %f",mrate35)
-# 합리적 예측인가? & 아니라면, 이유은 무엇인가?
+# p-value가 2.2e^16으로 0.05보다 낮기 때문에 귀무가설 기각하기 때문에 예측력이 떨어집니다.
 
 
 # Problem 5:
-# mrate는 prate의 변동을 얼마나 설명하고 있는가?
-# 내 의견은 어떤가?
-
+# Multiple R-squared가 0.0747으로 7.47% 데이터만 모델에 의해 설명되고,  92.53% 데이터는 회귀식으로 설명할 수 없는 error로 추정치의 신뢰도가 낮습니다.
 
 

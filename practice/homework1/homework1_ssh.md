@@ -38,9 +38,11 @@ Problem 3: Interpret the intercept in your equation. Interpret the coefficient o
 
 Problem 4: Find the predicted prate when mrate =3.5. Is this a reasonable prediction? Explain what is happening here.
 - predicted prate when mrate=3.5? : 103.589233
+- 데이터상에서 prate는 전체에 대한 비율이므로 최대치가 100을 넘을 수 없기 때문에 타당한 예측이라고 할 수 없습니다.
 
-Problem 5: How much of the variation inprate is explained by mrate ? Is this a lot in your
-- Writing 
+Problem 5: How much of the variation inprate is explained by mrate ? Is this a lot in your opinion?
+- Multiple R-squared가 0.0747으로 7.47% 데이터만 모델에 의해 설명되고,  92.53% 데이터는 회귀식으로 설명할 수 없는 error로 추정치의 신뢰도가 낮습니다.
+
 
 ## Question 3 : Consider
 
